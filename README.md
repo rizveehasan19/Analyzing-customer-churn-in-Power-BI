@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-in-Power-BI
+# Customer Churn Analysis in Power BI
 
  In this case study, I've analyzed a fictional company's churn rate and visualized the insights through an interactive dashboard. Here are some key highlights:
 
