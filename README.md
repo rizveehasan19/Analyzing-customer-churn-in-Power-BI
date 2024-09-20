@@ -1,6 +1,6 @@
-# Analyzing customer churn in Power BI
+# Analyzing customer churn in the Telecom industry using Power BI
 
- In this case study, I've analyzed a fictional company's churn rate and visualized the insights through an interactive dashboard. Here are some key highlights:
+I have actually looked over a dataset from the telecom industry to understand the customer churn trend using Power BI to enable the leadership to take necessary measures according to the requirement. Here are some key highlights:
 
 ✨Visualization of the churn rate distribution in terms of states has paved the way to further targeted investigation of the rise of the churn rate in specific locations
 
@@ -10,4 +10,4 @@
 
 ✨New customers are more likely to churn compared to the old customers
 
-Please feel free to contact me for more details about the analysis or any feedback.
+Please don't hesitate to contact me for more details about the analysis or any feedback.
